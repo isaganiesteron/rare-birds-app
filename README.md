@@ -1,8 +1,8 @@
 # rare-birds-app
 A mini project made for the rare birds application process.
 
-Server: https://docs.nestjs.com/
-Client: https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example 
+Server [NestJs] (https://docs.nestjs.com/)
+Client: [React + Redux Boilerplate] (https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example)
 
 ## Installation
 
